@@ -1,0 +1,16 @@
+{
+  "name": "bonus",
+  "version": "1.0.0",
+  "description": "Trabajo bonus 1 del curso de Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago svalenciaz@unal.edu.co",
+  "license": "ISC"
+}
